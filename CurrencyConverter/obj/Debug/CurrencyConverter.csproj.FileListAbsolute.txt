@@ -1,0 +1,13 @@
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kodu\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
